@@ -6,7 +6,7 @@ A responsive, semantic portfolio website built from scratch using pure HTML5 and
 
 ## 📸 Preview
 
-![Portfolio Preview]([screenshot.png](https://teal-mooncake-da6846.netlify.app/))
+Portfolio Preview: https://teal-mooncake-da6846.netlify.app/
 
 ---
 
