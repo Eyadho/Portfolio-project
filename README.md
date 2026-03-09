@@ -72,7 +72,7 @@ portfolio/
 
 ## 📋 Assignment Requirements
 
-Built as part of the **Webbutveckling** course at GRIT Academy.
+Built as part of the **Webbutveckling** course.
 
 | Requirement | Status | Notes |
 |---|---|---|
